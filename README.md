@@ -1,6 +1,6 @@
 #  Quiz App
 
-![quiz-app](https://image.ibb.co/dAQgJG/quizapp.gif)
+![quiz-app](https://github.com/shafayeatsumit/quizApp/blob/master/quizapp.gif)
 
 ## :arrow_up: How to Setup
 
