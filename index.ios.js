@@ -3,6 +3,8 @@ import { Text, View, AppRegistry, ListView,StyleSheet,AlertIOS } from 'react-nat
 import { Container, Header, Content, Button, ScrollVie } from 'native-base';
 import MultipleChoice from 'react-native-multiple-choice'
 
+console.disableYellowBox = true;
+
 const url = "https://opentdb.com/api.php?amount=10"
 class App extends Component {
   constructor(props){
